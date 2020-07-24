@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">olx</string>
+    <string-array name="category_arrays">
+        <item>Properties</item>
+        <item>Cars</item>
+        <item>Furniture</item>
+        <item>Jobs</item>
+        <item>Electronics and Appliances</item>
+        <item>Mobiles</item>
+        <item>Bikes</item>
+        <item>Books, Sports and Hobbies</item>
+        <item>Fashion</item>
+    </string-array>
+</resources>
